@@ -1,7 +1,7 @@
 # standard-inputs
 My first ruby script
 
-#Social App
+# Social App
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/HNG-StrikeWork-brightgreen.svg)
 
